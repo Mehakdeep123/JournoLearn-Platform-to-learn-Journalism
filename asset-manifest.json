@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JournoLearn-Platform-to-learn-Journalism/static/css/main.1e9e185a.css",
+    "main.js": "/JournoLearn-Platform-to-learn-Journalism/static/js/main.832c6621.js",
+    "static/js/453.d9b70dc3.chunk.js": "/JournoLearn-Platform-to-learn-Journalism/static/js/453.d9b70dc3.chunk.js",
+    "static/media/background.png": "/JournoLearn-Platform-to-learn-Journalism/static/media/background.0abefdb1988d335bf7e3.png",
+    "static/media/prize4.png": "/JournoLearn-Platform-to-learn-Journalism/static/media/prize4.6c310932754aadc79756.png",
+    "static/media/prize1.png": "/JournoLearn-Platform-to-learn-Journalism/static/media/prize1.f48856df88ac23234a37.png",
+    "static/media/prize3.png": "/JournoLearn-Platform-to-learn-Journalism/static/media/prize3.ab27b4133cf517753b36.png",
+    "static/media/prize2.png": "/JournoLearn-Platform-to-learn-Journalism/static/media/prize2.c4e2d14f68c66fbaf251.png",
+    "static/media/exp.jpg": "/JournoLearn-Platform-to-learn-Journalism/static/media/exp.d716d8da3974165a9516.jpg",
+    "static/media/dp.jpg": "/JournoLearn-Platform-to-learn-Journalism/static/media/dp.64e96fa7ee64da825535.jpg",
+    "static/media/logo.png": "/JournoLearn-Platform-to-learn-Journalism/static/media/logo.40005492583de82ece57.png",
+    "index.html": "/JournoLearn-Platform-to-learn-Journalism/index.html",
+    "main.1e9e185a.css.map": "/JournoLearn-Platform-to-learn-Journalism/static/css/main.1e9e185a.css.map",
+    "main.832c6621.js.map": "/JournoLearn-Platform-to-learn-Journalism/static/js/main.832c6621.js.map",
+    "453.d9b70dc3.chunk.js.map": "/JournoLearn-Platform-to-learn-Journalism/static/js/453.d9b70dc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9e185a.css",
+    "static/js/main.832c6621.js"
+  ]
+}
